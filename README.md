@@ -10,3 +10,7 @@ cd surveyjs-quiz-app
 npm install
 
 npm run dev
+
+## License
+
+MIT © 2025 Arif Ömer
