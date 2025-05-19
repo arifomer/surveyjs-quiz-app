@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-    base: "/surveyjs-demo/",
+    base: "/surveyjs-quiz-app/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
