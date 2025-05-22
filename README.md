@@ -1,8 +1,14 @@
 # SurveyJS Quiz App with Vue 3
 
-A simple quiz application built with Vue 3 and SurveyJS. It features timed questions, progress bar, and dynamic results based on answers.
+This is a simple quiz application built with [SurveyJS](https://surveyjs.io/) and Vue 3.
+
+## 🔗 Live Demo
+
+Check out the live version here:
+👉 [https://arifomer.github.io/surveyjs-quiz-app/](https://arifomer.github.io/surveyjs-quiz-app/)
 
 ## Setup
+
 git clone https://github.com/arifomer/surveyjs-quiz-app.git
 
 cd surveyjs-quiz-app
