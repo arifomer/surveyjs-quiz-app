@@ -1,21 +1,21 @@
-# SurveyJS Quiz App with Vue 3
+# SurveyJS Quiz App
 
 This is a simple quiz application built with [SurveyJS](https://surveyjs.io/) and Vue 3.
 
-## 🔗 Live Demo
+## 🚀 Live Demo
 
-Check out the live version here:
-👉 [https://arifomer.github.io/surveyjs-quiz-app/](https://arifomer.github.io/surveyjs-quiz-app/)
+👉 [Click here to view the live demo](https://arifomer.github.io/surveyjs-quiz-app/)
 
-## Setup
+## 📦 Project Setup
 
+First, clone the repository and install dependencies:
+
+```bash
 git clone https://github.com/arifomer/surveyjs-quiz-app.git
-
 cd surveyjs-quiz-app
-
 npm install
-
 npm run dev
+```
 
 ## License
 
